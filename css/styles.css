@@ -63,6 +63,9 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 *,
 *::before,
